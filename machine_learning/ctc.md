@@ -1,0 +1,3 @@
+- [Beam Search Decoding in CTC-trained Neural Networks](https://towardsdatascience.com/beam-search-decoding-in-ctc-trained-neural-networks-5a889a3d85a7)
+- [Comparison of Connectionist Temporal Classification Decoding Algorithms](https://github.com/githubharald/CTCDecoder/blob/master/doc/comparison.pdf)
+- [CTC Networks and Language Models: Prefix Beam Search Explained](https://medium.com/corti-ai/ctc-networks-and-language-models-prefix-beam-search-explained-c11d1ee23306)
